@@ -1,5 +1,5 @@
 # Azure distributed app image analyzer https://imageanalyzerapp.azurewebsites.net/
-**Auteur**: AFFES BILEL - BOUKEBECHE Nessrine
+**Auteur**: AFFES BILEL 
 
 Ce projet est une application distribuée permettant de :
 - Stocker une image dans un blob storage.
